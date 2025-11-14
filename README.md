@@ -94,7 +94,7 @@ This is a **production-ready application** with:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/guruprasadreddyk/EduLinkAI
+   git clone https://github.com/surendra-reddy-k/EduLinkAI
    cd edulinkai
    ```
 
